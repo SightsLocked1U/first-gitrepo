@@ -18,9 +18,17 @@
   background-color: #FD6E0A;  
   font-weight: bold;
   color: white;
+  border: none;
   font-size: 20px;
   padding: 18px 35px;
   border-radius: 5px;
+}
+/* header */
+.header{
+background-image: url('../images/developer.png'), url('../images/header_bg.png');
+background-repeat: no-repeat;
+background-position: top left, bottom right ;
+background-color: #FFF8F3;
 }
 /* nav styles */
 nav{
@@ -46,4 +54,23 @@ nav ul{
     display: flex;
     /* gap: 20px; */
     align-items: center;
+}
+/* banner style */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 230px;
+}
+.banner-greetings{
+    font-size: 45px;
+    font-weight: 600;
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 85px;
+}.banner-profilepic{
+    width:580px ;
+}
+.banner-content{
+    max-width:580px ;
 }

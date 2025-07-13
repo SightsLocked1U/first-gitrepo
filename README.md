@@ -1,1 +1,1 @@
-i am a CS student in bangladesh, currently learning web development. This is the webpage i am trying to remake , nothing interesting here. Is this what you supposed to write in read me folder,  i dont think so.
+I am a CS student from Bangladesh, currently learning web development. This is the first webpage i am trying to redesign,   NOTHING INTERESTING IN HERE. Is this what you supposed to write in read me folder,  i dont think so.
